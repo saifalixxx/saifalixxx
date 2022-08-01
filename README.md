@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <i![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=Saifalixxx)  />
+  i![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=Saifalixxx) 
 </div>
 
 ###
